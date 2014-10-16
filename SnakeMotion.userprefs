@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game Snake\scripts\CollisionScript2.js">
+    <Files>
+      <File FileName="Assets\Game Snake\scripts\MvtClavierScript.cs" Line="15" Column="57" />
+      <File FileName="Assets\Game Snake\scripts\MouvementScript.cs" Line="39" Column="3" />
+      <File FileName="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" Line="17" Column="16" />
+      <File FileName="Assets\Game Snake\scripts\CollisionScript2.js" Line="35" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

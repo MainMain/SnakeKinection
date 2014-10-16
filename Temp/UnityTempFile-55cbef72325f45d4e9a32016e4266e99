@@ -1,0 +1,61 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+-r:Assets/Plugins/LeapCSharp.NET3.5.dll
+-r:Assets/Plugins/System.Data.dll
+-r:"Assets/Plugins/Cloud System/CloudSystemFree.Runtime.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_4_5_4
+-define:UNITY_4_5
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+-define:UNITY_PRO_LICENSE
+-define:CROSS_PLATFORM_INPUT
+Assets/CSV/CsvExport.cs
+Assets/CSV/Descripteurs.cs
+"Assets/Game Snake/scripts/MouvementScript.cs"
+"Assets/Game Snake/scripts/MvtClavierScript.cs"
+"Assets/Game Snake/scripts/OnClickMenu.cs"
+"Assets/Game Snake/scripts/OptionSnake.cs"
+"Assets/Gem Shader/Example/GemSpawner.cs"
+Assets/MainMenu/MainMenuCamera.cs
+Assets/MainMenu/MainMenuScript.cs
+Assets/MainMenu/MainMenuSlide.cs
+Assets/_Elementals/Scripts/OrbitCamera.cs
+Assets/_Elementals/Scripts/TestParticles.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Xml.Linq.dll"
