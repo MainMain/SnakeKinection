@@ -1,4 +1,2 @@
-SnakeKinection
-==============
-
-SnakeKinection
+SnakeMotion
+===========
